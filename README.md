@@ -3,7 +3,7 @@
 ## What I'm doing.
 
 - ⚡ Coding.
-- 🔭 Learning to solder.
+- 🔭 Teaching machines.
 - 🌱 Solving problems everyday.
 
 
