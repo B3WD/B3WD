@@ -10,6 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="B3WD | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>][linkedin]
+[<img align="left" alt="B3WD | Gmail" width="22px" src="https://bg.wikipedia.org/wiki/Gmail#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Gmail_icon_(2020).svg"/>][gmail]
+
 
 <br />
 
