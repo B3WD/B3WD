@@ -12,7 +12,6 @@
 [<img align="left" alt="B3WD | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>][linkedin]
 [<img align="left" alt="B3WD | Gmail" width="22px" src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest?cb=20201124061831"/>][gmail]
 
-
 <br />
 
 ### Languages and Tools:
@@ -25,4 +24,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 [linkedin]: https://www.linkedin.com/in/tsvetomir-pavlov-651a981a3
-[gmail]: tsvetomir.kpavlov@gmail.com
+[gmail]: https://gist.github.com/B3WD/7a59f5e628477e349b996fb05510252d
